@@ -47,8 +47,18 @@ Navegar: menu inferior.
 - `cursor normal`: click derecho -> `cursor chat`.
 - `history`: flecha al titulo del archivo -> `version history`.
 
+### Crear Formas y Estructuras Básicas en Figma
+
+- `r`: Crear Rectangulo.
+- `Alt`: Revisar espacios.
+- `i`: Para tomar un color específico, por ejemplo de una paleta.
+- `Alt+Click`: Teniendo el click sostenido movemos con el mause y creamos una copia del objeto.
+- `Shift+Click`: Para seleccionar varios objetos.
+- `Shift+p`: Selecciona la herramienta pencil.
+- `Pencil`: Mantenga ´Shift´ para dibujar lineas rectas.
+- `o`: Crear circulos u ovalos, manteniendo `Shift` para que tenga el mismo alto y ancho.
 - ``:
 - ``:
 - ``:
-- ``:
+
 - ``:
