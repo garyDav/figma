@@ -57,6 +57,16 @@ Navegar: menu inferior.
 - `Shift+p`: Selecciona la herramienta pencil.
 - `Pencil`: Mantenga ´Shift´ para dibujar lineas rectas.
 - `o`: Crear circulos u ovalos, manteniendo `Shift` para que tenga el mismo alto y ancho.
+- `Ctrl+Alt+o`: Convierte un borde (Stroke) en Relleno (Fill).
+- `Ctrl+k`: Abre el buscador de Assets y Componentes, ejemplo: (Material Symbol, Beautiful Shadows).
+- `F o A`: Para crear un Frame.
+- `Ctrl+Shift+3`: Outilines visibles, para ver donde estan delimitados los vectores, sin importar los efectos.
+- `Shift+A`: Añadir Auto Layout, por ejemplo a un texto, o a un grupo de elementos.
+- `Ctrl+Alt+Shift+a`: Añadir Auto Layout recomendado por la IA.
+- `Crtl+d`: Duplicar objetos.
+- `Ctrl+Alt+g`: Convierte un grupo de elementos a un frame.
+- `Shift+e`: Cambiar el modo entre diseño y prototipo.
+- `r`: Estado en el modo ejecución hacer replay del prototipo.
 - ``:
 - ``:
 - ``:
